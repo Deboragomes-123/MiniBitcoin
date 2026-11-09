@@ -45,12 +45,3 @@ namespace MiniBitcoin.Console.Models
         }
     }
 }
-```[cite: 9]
-
----
-
-### Passo 3: Executar os testes e commitar
-
-No terminal do VS Code, rode os testes para validar se passou[cite: 3]:
-```bash
-dotnet test

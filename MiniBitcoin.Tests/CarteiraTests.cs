@@ -34,9 +34,3 @@ namespace MiniBitcoin.Tests
         }
     }
 }
-```[cite: 6]
-
-No terminal do VS Code, salve e faça o commit dos testes[cite: 3]:
-```bash
-git add .
-git commit -m "test(carteira): add unit tests for wallet balance validation"
